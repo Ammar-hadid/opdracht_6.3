@@ -1,0 +1,23 @@
+html {
+    font-size: 20px;
+}
+
+nav ul {
+    display: flex;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    justify-content: space-between;
+    gap: 1.5rem;
+}
+
+nav ul li {
+    color: #4747d4;
+}
+
+.con {
+    width: 25vw;
+    display: flex;
+    justify-content: center;
+}
+
